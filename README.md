@@ -5,11 +5,11 @@ Write-up pengerjaan soal shift modul 3 praktikum Jaringan Komputer kelompok IT20
 1. George David Nebore (5027221043)
 2. solo mode :)
 
-## Topologi Kelompok IT27 Praktikum Modul 3
+## Topologi Kelompok IT20 Praktikum Modul 3
 
 ![Topologi](https://github.com/user-attachments/assets/d6198d69-cd57-4520-a2ba-f6382ee0bb5e)
 
-## SOAL 0 (Config)
+## Konfigurasi
 
 ### Paradis (DHCP Relay)
 
