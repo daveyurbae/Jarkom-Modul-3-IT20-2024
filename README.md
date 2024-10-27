@@ -7,7 +7,7 @@ Write-up pengerjaan soal shift modul 3 praktikum Jaringan Komputer kelompok IT20
 
 ## Topologi Kelompok IT27 Praktikum Modul 3
 
-![Topologi](img/Topologi.png)
+![Topologi](https://github.com/user-attachments/assets/d6198d69-cd57-4520-a2ba-f6382ee0bb5e)
 
 ## SOAL 0 (Config)
 
